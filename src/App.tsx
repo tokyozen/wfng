@@ -11,7 +11,7 @@ function App() {
           backgroundImage: 'linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://mmo.aiircdn.com/370/61153dc9468c7.jpg")'
         }}
       >
-        <div className="absolute inset-0 bg-gradient-to-r from-blue-600/90 to-purple-600/90 mix-blend-multiply" />
+        <div className="absolute inset-0 bg-gradient-to-r from-green-600/90 to-emerald-600/90 mix-blend-multiply" />
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-full flex flex-col justify-center">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white mb-6">
             Find Your Dream Job Today
